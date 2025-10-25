@@ -1,0 +1,11 @@
+log_entry,log_level
+"17/03/21 10:15:06 INFO BlockManagerInfo: Added broadcast_5_piece72 in memory on mesos-slave-28:38180 (size: 4.0 MB, free: 12.1 GB)",INFO
+17/06/08 11:39:11 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 56151,INFO
+17/06/08 20:31:06 INFO executor.Executor: Finished task 29.0 in stage 9812.0 (TID 392548). 2076 bytes result sent to driver,INFO
+17/06/08 19:53:34 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 279727,INFO
+"17/06/08 20:05:14 INFO spark.CacheManager: Partition rdd_13876_25 not found, computing it",INFO
+17/06/08 10:15:52 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 23540,INFO
+17/06/08 15:14:58 INFO executor.Executor: Finished task 4.0 in stage 373.0 (TID 15975). 2667 bytes result sent to driver,INFO
+17/06/09 21:37:06 INFO storage.BlockManager: Found block rdd_4945_4 locally,INFO
+"17/04/13 18:59:05 INFO BlockManagerInfo: Added broadcast_4_piece117 in memory on mesos-master-2:46444 (size: 4.0 MB, free: 12.8 GB)",INFO
+17/06/09 13:22:23 INFO output.FileOutputCommitter: Saved output of task 'attempt_201706091322_14623_m_000009_585370' to hdfs://10.10.34.11:9000/pjhe/test/383/_temporary/0/task_201706091322_14623_m_000009,INFO
